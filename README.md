@@ -58,6 +58,6 @@ Insightbot is a retrieval-augmented chatbot designed for accurate, document-grou
 
 ![Architecture](Capture3.JPG)
 
-![Interface](Insightbot Architecture.jpg)
+![Interface](architect.jpg)
 
 
