@@ -56,8 +56,8 @@ Ask questions about your documents and receive AI-powered answers grounded in yo
 About
 Insightbot is a retrieval-augmented chatbot designed for accurate, document-grounded conversations, leveraging the latest LLMs and retrieval technologies.
 
-![Architecture](./your-image.jpg)
+![Architecture](Capture3.JPG)
 
-![Interface](./your-image.jpg)
+![Interface](Insightbot Architecture.png)
 
 
